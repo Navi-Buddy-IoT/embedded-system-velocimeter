@@ -1,0 +1,8 @@
+[wokwi]
+version = 1
+elf = ".pio/build/esp32doit-devkit-v1/firmware.elf"
+firmware = ".pio/build/esp32doit-devkit-v1/firmware.bin"
+
+[[chip]]
+name = 'chip-chip-velocimeter'
+binary = 'lib/chips/chip-chip-velocimeter.wasm'

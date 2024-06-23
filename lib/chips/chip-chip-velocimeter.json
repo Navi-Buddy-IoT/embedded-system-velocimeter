@@ -1,0 +1,23 @@
+{
+  "name": "chip-chip-velocimeter",
+  "author": "Author name",
+  "pins": [
+    "VCC",
+    "GND",
+    "D0",
+    "A0",
+    "",
+    "",
+    ""
+  ],
+  "controls": [
+    {
+      "id": "velocity",
+      "label": "Velocity km/h",
+      "type": "range",
+      "min": 0,
+      "max": 50,
+      "step": 1
+    }
+  ]
+}
