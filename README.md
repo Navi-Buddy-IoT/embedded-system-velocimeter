@@ -1,5 +1,7 @@
 # Embedded Velocimeter Monitoring System
 
+<h1 align="center"> <img src="https://media.discordapp.net/attachments/767151751744454666/1254713373799481375/velocimeter-sensor.png?ex=667a7e63&is=66792ce3&hm=0b25a0a03bc875ba8efdf3bc554a7b9ed5a97aaff6d43803493f154ba6bfda9e&=&format=webp&quality=lossless" alt="Project Screenshot" height="350"> </h1>
+
 ## Project Description
 
 This embedded velocimeter monitoring system is developed as part of the NaviBuddy group's project. It is designed to measure and monitor temperature data using an embedded system. The project utilizes the Wokwi simulation platform for hardware emulation and testing.
